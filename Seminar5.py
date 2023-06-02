@@ -8,7 +8,7 @@ def degree(a,b,res):
 
 a = int(input('Число '))
 b = int(input('Степень '))
-print(f(a,b,a))
+print(degree(a,b,a))
 
 # Задача 28
 
